@@ -1,4 +1,5 @@
 ## Plantito e-commerce app for plants
+## Developer: Arvin Jay Quidasol
 ## Stack: next.js, sanity, scss, stripe
 ## Status: complete
 
